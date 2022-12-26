@@ -1,0 +1,29 @@
+img{
+    border-radius:5px!important;
+}
+p{
+    font-weight:bold;
+    font-size:22px;
+}
+#navbar{
+    background-color: rgba(32,31,31,1);
+}
+li{
+    color:#fff!important;
+    list-style:none;
+    display: inline;
+    margin-left:30px;
+}
+.nav-elements{
+    text-align:center!important;
+    padding: 10px;
+}
+#title{
+    font-size:30px;
+}
+#footer{
+    background-color:rgb(32,1,1);
+    color:white!important;
+    text-align:center;
+    padding: 10px;
+}
